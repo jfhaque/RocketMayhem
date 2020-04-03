@@ -1,0 +1,6 @@
+Use W,A,S,D to rotate the robot
+Use Space bar to initiate thrust. 
+
+Objective is to reach from the platform at one end to the platform at the other end without crashing into a barrier.
+
+Hint: The robot can rotate without any thrust. 
